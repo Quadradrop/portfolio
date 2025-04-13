@@ -1,0 +1,2 @@
+This is a project where I analysed the impact of greenery levels on the housing prices in suburbs in 2019.
+The first thing I did was to remove any rows that weren't from the year 2019. Next, I merged the two datasets together using the Suburb columns in each dataset.
